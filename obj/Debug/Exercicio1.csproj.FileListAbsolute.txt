@@ -1,0 +1,7 @@
+C:\Users\jno\source\repos\Exercicio1\obj\Debug\Exercicio1.csprojAssemblyReference.cache
+C:\Users\jno\source\repos\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\jno\source\repos\Exercicio1\bin\Debug\Exercicio1.exe.config
+C:\Users\jno\source\repos\Exercicio1\bin\Debug\Exercicio1.exe
+C:\Users\jno\source\repos\Exercicio1\bin\Debug\Exercicio1.pdb
+C:\Users\jno\source\repos\Exercicio1\obj\Debug\Exercicio1.exe
+C:\Users\jno\source\repos\Exercicio1\obj\Debug\Exercicio1.pdb
